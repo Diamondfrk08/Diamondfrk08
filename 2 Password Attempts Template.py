@@ -1,8 +1,8 @@
 
-#you will have to change the username if u want
+#you will have to change the username/password if u want
 username = input("Enter username:")
 
-if username == "password": #<-- change username here
+if username == "password": #<-- change username/password here
   input("success")
   #put whatever u want here
 else:
@@ -10,7 +10,7 @@ else:
   print("Trys Remaing:1")
 if try2 == "":
   password2 = input("Enter Password:")
-if password2 == "bob": #<-- change username here
+if password2 == "bob": #<-- change username/password here
   input("success")
   #put whatever u want here
   
